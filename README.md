@@ -27,7 +27,7 @@ git clone https://github.com/Sanmugapriya21/SCT_WD_2.git
 
 ## 🌐 Live Website:
 
-https://sanmugapriya21.github.io/SCT_WD_2/
+https://cd3f3fbb-ef7e-4e62-82f2-c635053841c8-00-1i7qfj21lf57g.sisko.replit.dev/
 
 ## 🎥 Demo Video (LinkedIn):
 
